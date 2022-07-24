@@ -1,7 +1,7 @@
-### Hi there 👋
+### 
 
 <!--
-**annapoorna-a-k/annapoorna-a-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Ar-Seven/Ar-Seven* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annapoorna-a-k&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annapoorna-a-k&theme=dark)
+<div id="header" align="center">
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=annapoorna-a-k&show_icons=true&line_height=33&count_private=true&theme=radical" a />
+</div>
+<div id="header" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annapoorna-a-k&&hide=cmake&langs_count=4&line_height=35&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annapoorna-a-k&theme=radical" />
+</div>
