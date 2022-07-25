@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYc1Zwh0t7CJRrWzNbe2Q7yjXEtkKE_vOFKOA2I__EXHhR9vj7dG3NGcbhxyySrJPMi8&usqp=CAU" width="300" />
+  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYc1Zwh0t7CJRrWzNbe2Q7yjXEtkKE_vOFKOA2I__EXHhR9vj7dG3NGcbhxyySrJPMi8&usqp=CAU](http://24.media.tumblr.com/5f211739cf588911b0255c44e3f18d8a/tumblr_mof4dbWK491r922azo1_500.gif)" width="300" />
   <img src="https://github-readme-stats.vercel.app/api?username=annapoorna-a-k&show_icons=true&line_height=33&count_private=true&theme=dark" height="190"a />
 </div>
 <div id="header" align="center">
