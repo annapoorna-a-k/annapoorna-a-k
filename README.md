@@ -7,8 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annapoorna-a-k&&hide=cmake&langs_count=4&line_height=60&theme=dark" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annapoorna-a-k&theme=dark" height="170" />
 </div>
+<p style="text-align:center;">I'M LEARNING,</p>
 
-### I'M LEARNING,
 <table align="center">
     <tr>
       <td>
