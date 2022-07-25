@@ -8,7 +8,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annapoorna-a-k&theme=dark" height="170" />
 </div>
 <table>
-  <h1 style="text-align:center;">I'M LEARNING,</h1>
+  <h1 style="text-align:center;">i'm learning,</h1>
     <tr>
       <td>
         <div >
