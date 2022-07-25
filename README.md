@@ -8,9 +8,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annapoorna-a-k&theme=dark" height="170" />
 </div>
 
-
+### I'M LEARNING,
 <table align="center">
-  ### I'M LEARNING,
+
     <tr>
       <td>
         <div >
