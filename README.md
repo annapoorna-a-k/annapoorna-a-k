@@ -10,7 +10,6 @@
 
 ### I'M LEARNING,
 <table align="center">
-
     <tr>
       <td>
         <div >
