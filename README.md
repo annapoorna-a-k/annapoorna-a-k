@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" height="190"/>
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" />
   <img src="https://github-readme-stats.vercel.app/api?username=annapoorna-a-k&show_icons=true&line_height=33&count_private=true&theme=dark" height="190"a />
 </div>
 <div id="header" align="center">
