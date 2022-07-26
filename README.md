@@ -20,3 +20,5 @@
     </td>
   </tr>
 </table>
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=annapoorna-a-kk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
