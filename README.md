@@ -20,5 +20,4 @@
     </td>
   </tr>
 </table>
-![Profile Views](https://komarev.com/ghpvc/?username=annapoorna-a-k)
 
