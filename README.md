@@ -8,13 +8,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annapoorna-a-k&theme=dark" height="170" />
 </div>
 <table>
-  <h1 style="text-align:center;">i'm learning,</h1>
+  <h1 style="text-align:center;">i'm learning</h1>
     <tr>
       <td>
         <div >
-          <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
-          <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
-            <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="C++" width="50" height="50" />
+          <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />&nbsp;&nbsp;
+          <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />&nbsp;&nbsp;&nbsp;
+            <img src="https://brandslogos.com/wp-content/uploads/images/c-logo.png" alt="C++" width="50" height="50" />&nbsp;&nbsp;&nbsp;
           <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" width="36" height="36" />
         </div>
     </td>
