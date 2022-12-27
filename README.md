@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annapoorna-a-k&&hide=cmake&langs_count=15&line_height=60&theme=dark" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annapoorna-a-k&theme=dark" height="170"/>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=annapoorna-a-k&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=annapoorna-a-k&color=orange"/>
 </div>
 <table>
 
