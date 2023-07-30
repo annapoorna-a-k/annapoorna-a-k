@@ -1,5 +1,5 @@
 # 👋🏾 Hey, I'm Annapoorna!
-A B.Tech student in Computer Science with Artificial Intelligence at Amrita Vishwa Vidyapeetham, Amrithapuri campus, Kollam.
+A B.Tech student in Computer Science with Artificial Intelligence at Amrita Vishwa Vidyapeetham, Amrithapuri campus.
 
 <hr>
 
