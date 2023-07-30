@@ -17,7 +17,7 @@ A B.Tech student in Computer Science with Artificial Intelligence at Amrita Vish
 ### 🌏 Find me around the web:
 <ul>
   <li>Sharing updates on <a href="https://www.linkedin.com/in/annapoorna-a-k-9aa03b258/">Linkedin</a></li>
-  <li>Also on <a href="https://leetcode.com/apk2002kmr/">LeetCode</a>a</li>
+  <li>Also on <a href="https://leetcode.com/apk2002kmr/">LeetCode</a></li>
 </ul>
 <hr>
 
