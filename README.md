@@ -21,7 +21,7 @@ A B.Tech student in Computer Science with Artificial Intelligence at Amrita Vish
 
 
 ### 🌏 Find me around the web:
-<a style="padding-right:10px;" target="_blank" href="www.linkedin.com/in/annapoorna-a-k-9aa03b258"/>
+<a style="padding-right:10px;" target="_blank" href="https://www.linkedin.com/in/annapoorna-a-k-9aa03b258/"/>
 <img align="left" alt="Linkedln" width="35px" src="https://img.icons8.com/?size=1x&id=13930&format=png" />
 </a>
 <a style="padding-right:10px;" target="_blank" href="https://annnnaaa142002@gmail.com"/>
