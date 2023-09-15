@@ -23,7 +23,7 @@ A B.Tech student in Computer Science with Artificial Intelligence at Amrita Vish
 <ul>
   <li>Sharing updates on <a href="https://www.linkedin.com/in/annapoorna-a-k-9aa03b258/">LinkedIn</a></li>
   <li>Also on <a href="https://leetcode.com/apk2002kmr/">LeetCode</a></li>
-  <li>Emails?  <a href="annnnaaa142002@gmail.com">Here</a>a></li>
+  <li>Emails?  <a href="annnnaaa142002@gmail.com">Here</a></li>
 </ul>
 <hr>
 
