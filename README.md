@@ -21,11 +21,17 @@ A B.Tech student in Computer Science with Artificial Intelligence at Amrita Vish
 
 
 ### 🌏 Find me around the web:
-<ul>
-  <li>Sharing updates on <a href="www.linkedin.com/in/annapoorna-a-k-9aa03b258"> <img src="https://github.com/annapoorna-a-k/annapoorna-a-k/assets/98168268/cbf5cae5-bd77-44fd-a352-0ffe3171ac5b" align="center" alt="linkedin" height ="15px"></a></li>
-  <li>Also on <img src="https://github.com/annapoorna-a-k/annapoorna-a-k/assets/98168268/192721cd-a8fe-48cb-b839-37cd939ff5f9" align="center" alt="leetcode" height ="40px"></li>
-  <li>Emails?<img src="https://github.com/annapoorna-a-k/annapoorna-a-k/assets/98168268/d6bceaf2-22d0-4741-bb04-d62ef42a7f6c" align="center" alt="gmail" height ="23px"> </li>
-</ul>
+<a style="padding-right:10px;" target="_blank" href="www.linkedin.com/in/annapoorna-a-k-9aa03b258"/>
+<img align="left" alt="Linkedln" width="35px" src="https://img.icons8.com/?size=1x&id=13930&format=png" />
+</a>
+<a style="padding-right:10px;" target="_blank" href="https://annnnaaa142002@gmail.com"/>
+<img align="left" alt="gmail" width="35px" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" />
+</a>
+<a style="padding-right:10px;" target="_blank" href="https://leetcode.com/annapoorna-a-k/"/>
+<img align="left" alt="leetcode" width="40px" src="https://github.com/annapoorna-a-k/annapoorna-a-k/assets/98168268/192721cd-a8fe-48cb-b839-37cd939ff5f9" />
+</a>
+<br>
+
 <hr>
 
 ### 📊  Github Stats:
