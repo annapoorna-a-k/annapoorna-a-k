@@ -27,7 +27,7 @@ A B.Tech student in Computer Science with Artificial Intelligence at Amrita Vish
 <a style="padding-right:10px;" target="_blank" href="https://annnnaaa142002@gmail.com"/>
 <img align="left" alt="gmail" width="35px" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" />
 </a>
-<a style="padding-right:10px;" target="_blank" href="https://leetcode.com/annapoorna-a-k/"/>
+<a style="padding-right:10px;" target="_blank" href="https://leetcode.com/apk2002kmr/"/>
 <img align="left" alt="leetcode" width="40px" src="https://github.com/annapoorna-a-k/annapoorna-a-k/assets/98168268/192721cd-a8fe-48cb-b839-37cd939ff5f9" />
 </a>
 <br>
