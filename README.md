@@ -46,6 +46,10 @@ A B.Tech student in Computer Science with Artificial Intelligence at Amrita Vish
   <img src="https://komarev.com/ghpvc/?username=annapoorna-a-k&color=grey"/>
 </div>
 <table>
+<hr>
+  
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=annapoorna-a-k&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 </table>
 
