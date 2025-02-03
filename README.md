@@ -14,7 +14,7 @@ A B.Tech student in Computer Science with Artificial Intelligence at Amrita Vish
 <img src="https://github.com/annapoorna-a-k/annapoorna-a-k/assets/98168268/12e66428-3675-40b6-82d4-8a2f6681c75f" align="left" alt="html" height ="36px">
 <img src="https://github.com/annapoorna-a-k/annapoorna-a-k/assets/98168268/4e712e1b-a48a-4137-8fdb-eed6cfa1aadb" align="left" alt="css" height ="36px">
 <img src="https://github.com/annapoorna-a-k/annapoorna-a-k/assets/98168268/18ae4b07-fa5c-4d4a-97d6-342492bcbf03" align="left" alt="r" height ="36px">
-
+<img src="https://github.com/user-attachments/assets/6632875c-0eb2-42cd-8014-78f9c1bf6331" align="left" alt="django" height ="36px">
 
 <br><br>
 <hr>
